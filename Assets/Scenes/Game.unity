@@ -1437,7 +1437,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 29.599962, y: 16.300014}
+  m_AnchoredPosition: {x: 21.52, y: 16.3}
   m_SizeDelta: {x: 584.8722, y: 67.4109}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &603357458
@@ -1460,7 +1460,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Etskun energiat loppuivat ja matkanteko pys\xE4htyi!"
+  m_text: "Sigges energi \xE4r slut och resan uppf\xF6r kullen \xE4r \xF6ver!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
   m_sharedMaterial: {fileID: -39043688324784363, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
@@ -1487,8 +1487,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 26
-  m_fontSizeBase: 26
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1685,8 +1685,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 164.7, y: -25.6}
-  m_SizeDelta: {x: 179.6688, y: 40.4074}
+  m_AnchoredPosition: {x: 143.5, y: -25.7}
+  m_SizeDelta: {x: 223.1597, y: 40.3127}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &675063228
 MonoBehaviour:
@@ -1779,7 +1779,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ee9d172b83f2c1a4e8e8020378df283f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9970c0290f9bfdd49a583906c934ce49, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1839,7 +1839,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -50.091667, y: 0.000054929576}
+  m_AnchoredPosition: {x: 0, y: 0.000015259}
   m_SizeDelta: {x: 561, y: 138}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &708919763
@@ -2350,7 +2350,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Onneksi olkoon! Sait t\xE4ydet 300 pistett\xE4."
+  m_text: "Grattis! Du fick 300 po\xE4ng."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
   m_sharedMaterial: {fileID: -39043688324784363, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
@@ -3580,7 +3580,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ad7ca1df7c42db74681d39ee10da8e74, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7532e20a18959c649bb8e6e61c099aff, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3615,8 +3615,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 164.7, y: -25.6}
-  m_SizeDelta: {x: 185.4412, y: 46.18}
+  m_AnchoredPosition: {x: 143.5, y: -25.7}
+  m_SizeDelta: {x: 228.9186, y: 46.0717}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1798062677
 GameObject:
@@ -3655,8 +3655,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -162.7, y: -25.6}
-  m_SizeDelta: {x: 181.6379, y: 40.8503}
+  m_AnchoredPosition: {x: -164.8, y: -25.5747}
+  m_SizeDelta: {x: 177.7971, y: 39.9865}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1798062679
 MonoBehaviour:
@@ -3749,7 +3749,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2dd46cec4e1316545a320deb58f1c36c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d200d6895842184419bd44fde2f1030c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4075,7 +4075,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a6a65822a30f11b4daccd00537bbb2e2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 22d30ae8a5188e041b220ed6e851bed3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4110,8 +4110,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -162.7, y: -25.6}
-  m_SizeDelta: {x: 187.4737, y: 46.686}
+  m_AnchoredPosition: {x: -164.8, y: -25.5747}
+  m_SizeDelta: {x: 183.5095, y: 45.6989}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2128868361
 GameObject:
