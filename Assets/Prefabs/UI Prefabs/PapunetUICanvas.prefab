@@ -312,8 +312,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 637.9999, y: 236.99994}
-  m_SizeDelta: {x: 228.8235, y: 74.3676}
+  m_AnchoredPosition: {x: 630.8, y: 238.5}
+  m_SizeDelta: {x: 238.9241, y: 77.6504}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &258319416
 CanvasRenderer:
@@ -343,7 +343,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 943d1ba713e848440aff6ced5aa4c815, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8e0f056b4dc0ff5418d3457c37757f38, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -427,7 +427,7 @@ MonoBehaviour:
   stopPlaySprite: {fileID: 21300000, guid: 43819395ba5e8f641b79e97337a2784e, type: 3}
   inputManager: {fileID: 0}
   cursor: {fileID: 0}
-  guideAudioClip: {fileID: 8300000, guid: 18bfe7529f36e8740ac9a2faaf83cb41, type: 3}
+  guideAudioClip: {fileID: 8300000, guid: 7791298efd6e061479f352c1e548e782, type: 3}
   guideAudioOn: 0
 --- !u!1 &723478725
 GameObject:
@@ -464,8 +464,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 678.7, y: -239.22}
-  m_SizeDelta: {x: 161.1748, y: 83.1503}
+  m_AnchoredPosition: {x: 666.8, y: -236.8}
+  m_SizeDelta: {x: 182.2078, y: 87.08}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &723478728
 CanvasRenderer:
@@ -495,7 +495,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7711774053fa6e749a53afdcef02a6b8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 88b90361f3e6e954eb71cb2454e5132b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -540,8 +540,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 638, y: 237}
-  m_SizeDelta: {x: 237.9763, y: 83.5206}
+  m_AnchoredPosition: {x: 630.8, y: 238.5}
+  m_SizeDelta: {x: 248.4812, y: 87.2073}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &774708504
 CanvasRenderer:
@@ -571,7 +571,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: eb83bdff9f514004d9bce8316c75f317, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f6b9e712f68048044ace3cffd19aedd7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -696,8 +696,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -81.394, y: -28.5}
-  m_SizeDelta: {x: 1337.2126, y: 453.3939}
+  m_AnchoredPosition: {x: -81.394, y: -41.299}
+  m_SizeDelta: {x: 1337.2126, y: 478.99}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &990137477
 CanvasRenderer:
@@ -727,17 +727,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Peliss\xE4 etana ry\xF6mii m\xE4ke\xE4 yl\xF6s. Teht\xE4v\xE4n\xE4si on
-    auttaa etanaa sy\xF6m\xE4\xE4n mansikoita ja suojautumaan kivilt\xE4. Voit pelata
-    peli\xE4 hiirell\xE4 tai painikkeilla.\n\nJos etana ei suojaudu kivilt\xE4, se
-    menett\xE4\xE4 energiaa. Auta etanaa suojautumaan klikkaamalla kuorta hiirell\xE4
-    tai painikkeella. Muista p\xE4\xE4st\xE4\xE4 etana kuorestaan pois, jotta sen
-    energiat eiv\xE4t kulu. Saat etanan pois kuorestaan klikkaamalla kuorta hiirell\xE4
-    tai painikkeella.\n\nKun etana sy\xF6 mansikan, se saa lis\xE4\xE4 energiaa.
-    Etana sy\xF6 mansikoita automaattisesti, jos se ei ole kuorensa sis\xE4ss\xE4.\n\nPeli
-    p\xE4\xE4ttyy, jos etanalta loppuu energia. Voit seurata etanan energiam\xE4\xE4r\xE4\xE4
-    pelin aikana oikeasta alakulmasta. Peli p\xE4\xE4ttyy my\xF6s, jos onnistut ker\xE4\xE4m\xE4\xE4n
-    300 pistett\xE4."
+  m_text: "I spelet kryper Sigge Snigel uppf\xF6r kullen. Din uppgift \xE4r att hj\xE4lpa
+    Sigge att \xE4ta jordgubbarna och skydda honom fr\xE5n rullande stenar. Du kan
+    spela med musen eller tangenterna. \n\r\nOm snigeln inte skyddar sig fr\xE5n
+    stenarna f\xF6rlorar den energi. Hj\xE4lp snigeln att skydda sig genom att klicka
+    p\xE5 skalet med musen eller tangenten. Kom ih\xE5g att sl\xE4ppa ut snigel fr\xE5n
+    skalet, s\xE5 att energin inte tar slut. Du kan sl\xE4ppa ut snigeln fr\xE5n
+    skalet genom att klicka p\xE5 det med musen eller tangenterna. \r\n\nN\xE4r snigeln
+    \xE4ter jordgubbar f\xE5r den mera energi. Snigeln \xE4ter jordgubbarna automatiskt
+    om den inte \xE4r inne i skalet. \r\n\nSpelet tar slut om snigeln f\xE5r slut
+    p\xE5 energi. Nere i h\xF6gra h\xF6rnet kan du under spelets g\xE5ng f\xF6lja
+    snigelns energim\xE4ngd.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
   m_sharedMaterial: {fileID: -39043688324784363, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
@@ -1196,8 +1196,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 678.7, y: -239.22}
-  m_SizeDelta: {x: 152.0626, y: 74.0378}
+  m_AnchoredPosition: {x: 666.8, y: -236.8}
+  m_SizeDelta: {x: 171.9063, y: 77.5369}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1811517764
 CanvasRenderer:
@@ -1227,7 +1227,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a309ee141cfa4b245ad24f04e2862cf4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a090920b25911b448a355dea5f462b2d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1343,8 +1343,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -650, y: 243}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -579.0305, y: 243}
+  m_SizeDelta: {x: 341.939, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1859181392
 CanvasRenderer:
@@ -1374,7 +1374,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Ohjeet
+  m_text: Instruktioner
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
   m_sharedMaterial: {fileID: -39043688324784363, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
