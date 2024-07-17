@@ -424,7 +424,7 @@ MonoBehaviour:
   buttonImage: {fileID: 0}
   originalSprite: {fileID: 0}
   blackBG: {fileID: 774708502}
-  stopPlaySprite: {fileID: 21300000, guid: 43819395ba5e8f641b79e97337a2784e, type: 3}
+  stopPlaySprite: {fileID: 21300000, guid: 430816f8d6d1e534fa08b5849827141b, type: 3}
   inputManager: {fileID: 0}
   cursor: {fileID: 0}
   guideAudioClip: {fileID: 8300000, guid: 7791298efd6e061479f352c1e548e782, type: 3}
