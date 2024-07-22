@@ -48,6 +48,62 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Touch",
+            "id": "aa3829e0-7440-4359-85b2-c3d567469bc0",
+            "actions": [
+                {
+                    "name": "Press",
+                    "type": "Button",
+                    "id": "d739b8d7-b121-4016-a034-6268589ee32e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f66123a4-60e0-4342-a68d-42ff5479f64e",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Keyboard",
+            "id": "93b0db99-03c5-47b4-b258-7fd4219f8cdc",
+            "actions": [
+                {
+                    "name": "PressEnter",
+                    "type": "Button",
+                    "id": "6cd88014-6229-4b56-ada3-13aff4210176",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "12d164c6-202d-418f-b146-8a1f1e2891a1",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PressEnter",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
