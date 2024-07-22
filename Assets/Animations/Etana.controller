@@ -96,7 +96,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 8231310fecd00bd42911b10d8172da3f, type: 2}
+  m_Motion: {fileID: 7400000, guid: 2e83407933ef7064babaad9caf764889, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -747,9 +747,6 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 829970487842024591}
     m_Position: {x: 240, y: -530, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 4315806154645932376}
-    m_Position: {x: 275, y: -465, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: -5760568616356034002}
@@ -862,32 +859,6 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: 7a368bf5122cb9543bf6c1eb8c6b84b4, type: 2}
-  m_Tag: 
-  m_SpeedParameter: 
-  m_MirrorParameter: 
-  m_CycleOffsetParameter: 
-  m_TimeParameter: 
---- !u!1102 &4315806154645932376
-AnimatorState:
-  serializedVersion: 6
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Etsku_Energiataso2
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Transitions: []
-  m_StateMachineBehaviours: []
-  m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
-  m_SpeedParameterActive: 0
-  m_MirrorParameterActive: 0
-  m_CycleOffsetParameterActive: 0
-  m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 2e83407933ef7064babaad9caf764889, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
