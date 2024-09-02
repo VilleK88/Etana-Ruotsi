@@ -731,12 +731,12 @@ MonoBehaviour:
     Sigge att \xE4ta jordgubbarna och skydda honom fr\xE5n rullande stenar. Du kan
     spela med musen eller tangenterna. \n\r\nOm snigeln inte skyddar sig fr\xE5n
     stenarna f\xF6rlorar den energi. Hj\xE4lp snigeln att skydda sig genom att klicka
-    p\xE5 skalet med musen eller tangenten. Kom ih\xE5g att sl\xE4ppa ut snigel fr\xE5n
-    skalet, s\xE5 att energin inte tar slut. Du kan sl\xE4ppa ut snigeln fr\xE5n
-    skalet genom att klicka p\xE5 det med musen eller tangenterna. \r\n\nN\xE4r snigeln
-    \xE4ter jordgubbar f\xE5r den mera energi. Snigeln \xE4ter jordgubbarna automatiskt
-    om den inte \xE4r inne i skalet. \r\n\nSpelet tar slut om snigeln f\xE5r slut
-    p\xE5 energi. Nere i h\xF6gra h\xF6rnet kan du under spelets g\xE5ng f\xF6lja
+    p\xE5 skalet med musen eller tangenten. Kom ih\xE5g att sl\xE4ppa ut snigeln
+    fr\xE5n skalet, s\xE5 att energin inte tar slut. Du kan sl\xE4ppa ut snigeln
+    fr\xE5n skalet genom att klicka p\xE5 den med musen eller tangenterna. \r\n\nN\xE4r
+    snigeln \xE4ter jordgubbar f\xE5r den mera energi. Snigeln \xE4ter jordgubbarna
+    automatiskt om den \xE4r ute ur skalet. \r\n\nSpelet tar slut om snigeln f\xE5r
+    slut p\xE5 energi. Nere i h\xF6gra h\xF6rnet kan du under spelets g\xE5ng f\xF6lja
     snigelns energim\xE4ngd.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: abd03312d5f206e4d8d5fc38b9274471, type: 2}
