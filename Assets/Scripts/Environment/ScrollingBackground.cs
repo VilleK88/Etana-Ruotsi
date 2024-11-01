@@ -9,8 +9,6 @@ public class ScrollingBackground : MonoBehaviour
     float angle = 14f;
     Vector2 movementDirection;
     public bool horizontal = true;
-    [SerializeField] Etana etana;
-    bool ifHiding;
     private void Start()
     {
         startPos = transform.position;
