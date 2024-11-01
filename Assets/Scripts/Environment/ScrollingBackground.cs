@@ -9,6 +9,8 @@ public class ScrollingBackground : MonoBehaviour
     float angle = 14f;
     Vector2 movementDirection;
     public bool horizontal = true;
+    [SerializeField] Etana etana;
+    bool ifHiding;
     private void Start()
     {
         startPos = transform.position;
@@ -34,9 +36,7 @@ public class ScrollingBackground : MonoBehaviour
     }
     void RepeatWithAngle()
     {
-        Vector2 currentPos = transform.position;
-        float distance = Vector2.Distance(startPos, currentPos);
+        float distance = Vector2.Distance(startPos, transform.position);
         if (distance >= repeatWidth) transform.position = startPos;
-        else transform.position = currentPos + movementDirection * Time.deltaTime;
     }
 }

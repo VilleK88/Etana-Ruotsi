@@ -2,11 +2,11 @@ using System.Collections;
 using UnityEngine;
 public class MoveLeft : MonoBehaviour
 {
-    float speed = 12.0f; // 2.0f original
+    float speed = 2.0f; // 2.0f original
     float maxTime = 0.5f;
     float counter = 0;
     [SerializeField] Etana etana;
-    bool ifHiding; // fetch from Etana -script
+    public bool ifHiding; // fetch from Etana -script
     public bool stopMovingBG;
     private void Update()
     {
